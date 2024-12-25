@@ -1,4 +1,4 @@
-# Analyze_Sales_Dashboard
+# Mahadev_Ecommerces_Sales_Dashboard
 Owner of Mahadev Store wants us to help them create a dashboard to track and analyse their online sales across India
 
 • Created interactive dashboard to track and analyze online sales data.
