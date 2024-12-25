@@ -1,4 +1,4 @@
-# Analyze-Sales-Dashboard
+# Analyze_Sales_Dashboard
 Sales Analysis Dashboard in this Dashboard analyze whole sales data
 
 • Created interactive dashboard to track and analyze online sales data.
