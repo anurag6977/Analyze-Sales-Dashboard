@@ -15,5 +15,3 @@ Skills: Microsoft Power BI · Microsoft Excel
 
 ![Screenshot 2024-09-30 204203](https://github.com/user-attachments/assets/aed8a083-186c-4fc1-8ded-750f571055d5)
 
-[Northwind Dashboard.pdf](https://github.com/user-attachments/files/18245793/Northwind.Dashboard.pdf)
-
