@@ -1,5 +1,5 @@
 # Analyze_Sales_Dashboard
-Sales Analysis Dashboard in this Dashboard analyze whole sales data
+Owner of Mahadev Store wants us to help them create a dashboard to track and analyse their online sales across India
 
 • Created interactive dashboard to track and analyze online sales data.
 
