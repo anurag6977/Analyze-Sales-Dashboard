@@ -8,4 +8,4 @@ Sales Analysis Dashboard in this Dashboard analyze whole sales data
 • Created interactive dashboard to track and analyze online sales data.
 Skills: Microsoft Power BI · Microsoft Excel
 
-![1726589841127](https://github.com/user-attachments/assets/06591acb-c7bf-4597-92c5-ecaa2e899b00)
+![Screenshot 2024-09-30 204203](https://github.com/user-attachments/assets/aed8a083-186c-4fc1-8ded-750f571055d5)
